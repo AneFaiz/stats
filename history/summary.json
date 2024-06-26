@@ -1,62 +1,62 @@
 [
   {
     "name": "Zufty Smp",
-    "url": "https://site.zuftysmp.online",
+    "url": "http://site.zuftysmp.online/",
     "icon": "https://icons.duckduckgo.com/ip3/site.zuftysmp.online.ico",
     "slug": "zufty-smp",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 81,
-    "timeDay": 81,
-    "timeWeek": 81,
-    "timeMonth": 81,
-    "timeYear": 81,
-    "dailyMinutesDown": {
-      "2024-06-26": 7
-    }
-  },
-  {
-    "name": "Titas IT Solution",
-    "url": "https://titasitsolution.com",
-    "icon": "https://icons.duckduckgo.com/ip3/titasitsolution.com.ico",
-    "slug": "titas-it-solution",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 78,
-    "timeDay": 78,
-    "timeWeek": 78,
-    "timeMonth": 78,
-    "timeYear": 78,
+    "time": 99,
+    "timeDay": 99,
+    "timeWeek": 99,
+    "timeMonth": 99,
+    "timeYear": 99,
     "dailyMinutesDown": {
-      "2024-06-26": 7
+      "2024-06-26": 17
+    }
+  },
+  {
+    "name": "Titas IT Solution",
+    "url": "http://titasitsolution.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/titasitsolution.com.ico",
+    "slug": "titas-it-solution",
+    "status": "up",
+    "uptime": "0.33%",
+    "uptimeDay": "0.33%",
+    "uptimeWeek": "0.33%",
+    "uptimeMonth": "0.33%",
+    "uptimeYear": "0.33%",
+    "time": 235,
+    "timeDay": 235,
+    "timeWeek": 235,
+    "timeMonth": 235,
+    "timeYear": 235,
+    "dailyMinutesDown": {
+      "2024-06-26": 17
     }
   },
   {
     "name": "Ramzi Store",
-    "url": "https://ramzistore.biz.id",
+    "url": "http://ramzistore.biz.id/",
     "icon": "https://icons.duckduckgo.com/ip3/ramzistore.biz.id.ico",
     "slug": "ramzi-store",
     "status": "down",
-    "uptime": "0.14%",
-    "uptimeDay": "0.14%",
-    "uptimeWeek": "0.14%",
-    "uptimeMonth": "0.14%",
-    "uptimeYear": "0.14%",
-    "time": 170,
-    "timeDay": 170,
-    "timeWeek": 170,
-    "timeMonth": 170,
-    "timeYear": 170,
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
+    "time": 204,
+    "timeDay": 204,
+    "timeWeek": 204,
+    "timeMonth": 204,
+    "timeYear": 204,
     "dailyMinutesDown": {
-      "2024-06-26": 7
+      "2024-06-26": 17
     }
   }
 ]
