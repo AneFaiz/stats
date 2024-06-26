@@ -4,11 +4,11 @@ repo: stats # The name of this repository
 
 sites:
   - name: Zufty Smp
-    url: https://site.zuftysmp.online
+    url: http://site.zuftysmp.online/
   - name: Titas IT Solution
-    url: https://titasitsolution.com
+    url: http://titasitsolution.com/
   - name: Ramzi Store
-    url: https://ramzistore.biz.id
+    url: http://ramzistore.biz.id/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
