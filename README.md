@@ -1,6 +1,6 @@
 # [📈 Live Status](https://stats.anefaiz.biz.id): <!--live status--> **🟥 Complete outage**
 
-This repository contains the open-source uptime monitor and status page for [AneFaiz](www.ramzistore.biz.id), powered by [Upptime](https://github.com/upptime/upptime).
+
 
 [![Uptime CI](https://github.com/AneFaiz/stats/workflows/Uptime%20CI/badge.svg)](https://github.com/AneFaiz/stats/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/AneFaiz/stats/workflows/Response%20Time%20CI/badge.svg)](https://github.com/AneFaiz/stats/actions?query=workflow%3A%22Response+Time+CI%22)
