@@ -16,8 +16,8 @@ status-website:
   cname: stats.anefaiz.biz.id
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status
-  introTitle: "**Status** AneFaiz Studio"
+  name: AneFaiz Studio
+  introTitle: "**Status Panel**"
   introMessage: Status Di Update Secara Real Time.
   navbar:
     - title: Status
