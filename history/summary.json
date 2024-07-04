@@ -34,7 +34,7 @@
     "timeMonth": 85,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2024-07-04": 916,
+      "2024-07-04": 958,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
@@ -62,7 +62,7 @@
     "timeMonth": 151,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2024-07-04": 916,
+      "2024-07-04": 958,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
@@ -90,7 +90,7 @@
     "timeMonth": 182,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2024-07-04": 916,
+      "2024-07-04": 958,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
@@ -106,19 +106,19 @@
     "url": "https://mevichost.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mevichost.com.ico",
     "slug": "target-1",
-    "status": "down",
-    "uptime": "85.82%",
-    "uptimeDay": "85.82%",
-    "uptimeWeek": "85.82%",
-    "uptimeMonth": "85.82%",
-    "uptimeYear": "85.82%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "3.59%",
+    "uptimeDay": "3.59%",
+    "uptimeWeek": "3.59%",
+    "uptimeMonth": "3.59%",
+    "uptimeYear": "3.59%",
+    "time": 1388,
+    "timeDay": 1388,
+    "timeWeek": 1388,
+    "timeMonth": 1388,
+    "timeYear": 1388,
     "dailyMinutesDown": {
-      "2024-07-04": 0
+      "2024-07-04": 42
     }
   },
   {
@@ -127,18 +127,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dash.mevichost.com.ico",
     "slug": "target-2",
     "status": "down",
-    "uptime": "7.50%",
-    "uptimeDay": "7.50%",
-    "uptimeWeek": "7.50%",
-    "uptimeMonth": "7.50%",
-    "uptimeYear": "7.50%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 763,
     "timeDay": 763,
     "timeWeek": 763,
     "timeMonth": 763,
     "timeYear": 763,
     "dailyMinutesDown": {
-      "2024-07-04": 0
+      "2024-07-04": 42
     }
   }
 ]
