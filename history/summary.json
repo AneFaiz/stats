@@ -34,7 +34,7 @@
     "timeMonth": 85,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2024-07-04": 977,
+      "2024-07-04": 1028,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
@@ -62,7 +62,7 @@
     "timeMonth": 151,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2024-07-04": 977,
+      "2024-07-04": 1028,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
@@ -90,7 +90,7 @@
     "timeMonth": 182,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2024-07-04": 977,
+      "2024-07-04": 1028,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
@@ -106,19 +106,19 @@
     "url": "https://mevichost.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mevichost.com.ico",
     "slug": "target-1",
-    "status": "down",
-    "uptime": "33.17%",
-    "uptimeDay": "33.17%",
-    "uptimeWeek": "33.17%",
-    "uptimeMonth": "33.17%",
-    "uptimeYear": "33.17%",
-    "time": 1388,
-    "timeDay": 1388,
-    "timeWeek": 1388,
-    "timeMonth": 1388,
-    "timeYear": 1388,
+    "status": "up",
+    "uptime": "18.40%",
+    "uptimeDay": "18.40%",
+    "uptimeWeek": "18.40%",
+    "uptimeMonth": "18.40%",
+    "uptimeYear": "18.40%",
+    "time": 1295,
+    "timeDay": 1295,
+    "timeWeek": 1295,
+    "timeMonth": 1295,
+    "timeYear": 1295,
     "dailyMinutesDown": {
-      "2024-07-04": 42
+      "2024-07-04": 93
     }
   },
   {
@@ -127,18 +127,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dash.mevichost.com.ico",
     "slug": "target-2",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 763,
     "timeDay": 763,
     "timeWeek": 763,
     "timeMonth": 763,
     "timeYear": 763,
     "dailyMinutesDown": {
-      "2024-07-04": 61
+      "2024-07-04": 112
     }
   }
 ]
