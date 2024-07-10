@@ -11,10 +11,6 @@ sites:
     url: https://titasitsolution.com/
   - name: Ramzi Store
     url: https://ramzistore.biz.id/
-  - name: target 1
-    url: https://mevichost.com/
-  - name: target 2
-    url: https://dash.mevichost.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
