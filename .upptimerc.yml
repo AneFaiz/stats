@@ -15,14 +15,14 @@ sites:
 delay: 2000 # 2 seconds
 status-website:
   theme: dark
-  themeUrl: https://github.com/AneFaiz/stats/blob/master/assets/dark.css
+  themeUrl: https://raw.githubusercontent.com/AneFaiz/stats/master/assets/dark.css
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: stats.anefaiz.biz.id
   # baseUrl: /your-repo-name
-  logoUrl: https://github.com/AneFaiz/stats/blob/master/assets/home-server.jpg
+  logoUrl: https://raw.githubusercontent.com/AneFaiz/stats/master/assets/home-server.jpg
   name: AneFaiz Studio
   introTitle: "**Status Panel**"
   introMessage: Status Di Update Secara Real Time.
