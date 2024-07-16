@@ -1,7 +1,7 @@
-url: https://titasitsolution.com
+url: $TITAS_SECRET
 status: down
 code: 403
-responseTime: 67
-lastUpdated: 2024-07-16T06:07:06.935Z
+responseTime: 75
+lastUpdated: 2024-07-16T06:13:39.831Z
 startTime: 2024-06-26T16:52:40.998Z
 generator: Upptime <https://github.com/upptime/upptime>
