@@ -24,8 +24,9 @@ delay: 2000 # 2 seconds
 status-website:
 
   themeUrl: https://raw.githubusercontent.com/AneFaiz/stats/master/assets/dark.css
-
   favicon: https://raw.githubusercontent.com/AneFaiz/stats/master/assets/home-server.png
+
+  # ...
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: stats.anefaiz.biz.id
@@ -37,6 +38,13 @@ status-website:
   navbar:
     - title: Status
       href: /
-
+commitMessages:
+  readmeContent: ":pencil: Update summary in README [skip ci] [upptime]"
+  summaryJson: ":card_file_box: Update status summary [skip ci] [upptime]"
+  statusChange: "$EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms) [skip ci] [upptime]"
+  graphsUpdate: ":bento: Update graphs [skip ci] [upptime]"
+i18n:
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Todos los sistemas están operativos
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
