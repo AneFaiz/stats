@@ -4,7 +4,7 @@ repo: stats # The name of this repository
 
 sites:
   - name: AneFaiz Studio
-    url: https://stats.anefaiz.biz.id
+    url: @STATS_SECRET
   - name: Zufty Smp
     url: $ZUFTY_SECRET
   - name: Titas IT Solution
@@ -16,8 +16,6 @@ delay: 2000 # 2 seconds
 
 status-website:
 
-  themeUrl: https://raw.githubusercontent.com/AneFaiz/stats/master/assets/dark.css
-  theme: dark
   favicon: https://raw.githubusercontent.com/AneFaiz/stats/master/assets/home-server.png
 
   # ...
