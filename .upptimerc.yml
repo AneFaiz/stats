@@ -16,7 +16,8 @@ delay: 2000 # 2 seconds
 
 status-website:
 
-
+  theme: light
+  themeUrl: https://raw.githubusercontent.com/AneFaiz/stats/master/assets/dark.css
   favicon: https://raw.githubusercontent.com/AneFaiz/stats/master/assets/home-server.png
 
   # ...
