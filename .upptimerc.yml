@@ -6,18 +6,18 @@ sites:
   - name: AneFaiz Studio
     url: https://stats.anefaiz.biz.id
     __dangerous__body_down_if_text_missing: '"status":"UP"'
-  __dangerous__insecure: true
+    __dangerous__insecure: true
   - name: Zufty Smp
     url: https://site.zuftysmp.online
     __dangerous__body_down_if_text_missing: '"status":"UP"'
   - name: Titas IT Solution
     url: https://titasitsolution.com
     __dangerous__body_down_if_text_missing: '"status":"UP"'
-  __dangerous__insecure: true
+    __dangerous__insecure: true
   - name: Ramzi Store
     url: https://ramzistore.biz.id
     __dangerous__body_down_if_text_missing: '"status":"UP"'
-  __dangerous__insecure: true
+    __dangerous__insecure: true
 
 delay: 2000 # 2 seconds
 
