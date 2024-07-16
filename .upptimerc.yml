@@ -8,14 +8,14 @@ sites:
     __dangerous__body_down_if_text_missing: '"status":"UP"'
     __dangerous__insecure: true
   - name: Zufty Smp
-    url: https://site.zuftysmp.online
+    url: $ZUFTY_SECRET
     __dangerous__body_down_if_text_missing: '"status":"UP"'
   - name: Titas IT Solution
-    url: https://titasitsolution.com
+    url: $TITAS_SECRET
     __dangerous__body_down_if_text_missing: '"status":"UP"'
     __dangerous__insecure: true
   - name: Ramzi Store
-    url: https://ramzistore.biz.id
+    url: $RAMZI_SECRET
     __dangerous__body_down_if_text_missing: '"status":"UP"'
     __dangerous__insecure: true
 
