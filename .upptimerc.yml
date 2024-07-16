@@ -18,6 +18,8 @@ status-website:
 
   theme: dark
   themeUrl: https://raw.githubusercontent.com/AneFaiz/stats/master/assets/dark.css
+
+  favicon: https://raw.githubusercontent.com/AneFaiz/stats/master/assets/home-server.png
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: stats.anefaiz.biz.id
