@@ -4,20 +4,24 @@ repo: stats # The name of this repository
 
 sites:
   - name: AneFaiz Studio
-    url: https://stats.anefaiz.biz.id/
+    url: https://stats.anefaiz.biz.id
   - name: Zufty Smp
-    url: https://site.zuftysmp.online/
+    url: https://site.zuftysmp.online
   - name: Titas IT Solution
-    url: https://titasitsolution.com/
+    url: https://titasitsolution.com
   - name: Ramzi Store
-    url: https://ramzistore.biz.id/
+    url: https://ramzistore.biz.id
+
+delay: 2000 # 2 seconds
+status-website:
+  theme: dark
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: stats.anefaiz.biz.id
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/AneFaiz/stats/blob/master/assets/home-server.jpg
   name: AneFaiz Studio
   introTitle: "**Status Panel**"
   introMessage: Status Di Update Secara Real Time.
