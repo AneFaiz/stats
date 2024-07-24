@@ -4,13 +4,13 @@ repo: stats # The name of this repository
 
 sites:
   - name: AneFaiz Studio
-    url: $STATS_SECRET
+    url: stats.anefaiz.biz.id
   - name: Zufty Smp
-    url: $ZUFTY_SECRET
+    url: site.zuftysmp.online
   - name: Titas IT Solution
-    url: $TITAS_SECRET
+    url: titasitsolution.com
   - name: Ramzi Store
-    url: $RAMZI_SECRET
+    url: ramzistore.biz.id
 
 delay: 2000 # 2 seconds
 
