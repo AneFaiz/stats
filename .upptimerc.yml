@@ -5,12 +5,61 @@ repo: stats # The name of this repository
 sites:
   - name: AneFaiz Studio
     url: anefaiz.tech
+    method: POST
+  maxResponseTime: 5000
+    __dangerous__body_down_if_text_missing: '"status":"UP"'
+    __dangerous__body_down: "DOWN"
+    __dangerous__insecure: true
+    __dangerous__disable_verify_peer: true
+    __dangerous__disable_verify_host: true
+    skipDeleteIssues: true
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Zufty Smp
     url: site.zuftysmp.online
+    method: POST
+  maxResponseTime: 5000
+    __dangerous__body_down_if_text_missing: '"status":"UP"'
+    __dangerous__body_down: "DOWN"
+    __dangerous__insecure: true
+    __dangerous__disable_verify_peer: true
+    __dangerous__disable_verify_host: true
+    skipDeleteIssues: true
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Titas IT Solution
     url: titasitsolution.com
-  - name: Ramzi Store
-    url: ramzistore.biz.id
+    method: POST
+  maxResponseTime: 5000
+    __dangerous__body_down_if_text_missing: '"status":"UP"'
+    __dangerous__body_down: "DOWN"
+    __dangerous__insecure: true
+    __dangerous__disable_verify_peer: true
+    __dangerous__disable_verify_host: true
+    skipDeleteIssues: true
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: Google
+    url: https://www.google.com
+    icon: https://www.google.com/favicon.ico
+    method: POST
+    maxResponseTime: 5000
+    __dangerous__body_down_if_text_missing: '"status":"UP"'
+    __dangerous__body_down: "DOWN"
+    __dangerous__insecure: true
+    __dangerous__disable_verify_peer: true
+    __dangerous__disable_verify_host: true
+    skipDeleteIssues: true
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 
 delay: 2000 # 2 seconds
 
