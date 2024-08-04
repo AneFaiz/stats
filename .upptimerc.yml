@@ -6,7 +6,7 @@ sites:
   - name: AneFaiz Studio
     url: anefaiz.tech
     method: POST
-  maxResponseTime: 5000
+    maxResponseTime: 5000
     __dangerous__body_down_if_text_missing: '"status":"UP"'
     __dangerous__body_down: "DOWN"
     __dangerous__insecure: true
@@ -20,7 +20,7 @@ sites:
   - name: Zufty Smp
     url: site.zuftysmp.online
     method: POST
-  maxResponseTime: 5000
+    maxResponseTime: 5000
     __dangerous__body_down_if_text_missing: '"status":"UP"'
     __dangerous__body_down: "DOWN"
     __dangerous__insecure: true
@@ -34,7 +34,7 @@ sites:
   - name: Titas IT Solution
     url: titasitsolution.com
     method: POST
-  maxResponseTime: 5000
+    maxResponseTime: 5000
     __dangerous__body_down_if_text_missing: '"status":"UP"'
     __dangerous__body_down: "DOWN"
     __dangerous__insecure: true
