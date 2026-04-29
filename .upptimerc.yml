@@ -70,8 +70,8 @@ status-website:
   # ...
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: anefaiz.tech
-  # baseUrl: /your-repo-name
+  #cname: anefaiz.tech
+  baseUrl: /stats
   logoUrl: https://raw.githubusercontent.com/AneFaiz/stats/master/assets/home-server.jpg
   name: AneFaiz Studio
   introTitle: "**Status Panel**"
